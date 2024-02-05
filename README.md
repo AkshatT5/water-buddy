@@ -1,1 +1,1 @@
-# water_buddy
+# water-buddy
