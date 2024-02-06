@@ -1,1 +1,1 @@
-# water-buddy
+# Water Buddy
